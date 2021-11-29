@@ -1,0 +1,73 @@
+body{
+    background-color: #E5E5E5;
+}
+h1{
+    position: absolute;
+width: 593px;
+height: 152px;
+left: 150px;
+top: 297px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 78px;
+line-height: 90px;
+display: flex;
+align-items: center;
+color: #132C33;
+}
+h3{
+    position: absolute;
+width: 550px;
+height: 187px;
+left: 150px;
+top: 470px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 60px;
+color: #126E82;
+}
+.navbar-brand img{
+    position: absolute;
+width: 400px;
+height: 80px;
+left: 85px;
+top: 5px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:white ;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 39px;
+align-items: center ;
+    border: 25px #0DCEDA;
+}
+#navb{
+    position: absolute;
+width: 1920px;
+height: 90px;
+left: 0px;
+top: 0px;
+
+    background-color: #132C33;
+}
+button{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 235px;
+    top: 698px;
+    border-radius: 25px;
+    background-color: #126E82;
+}
+img{
+    position: absolute;
+    width: 700px;
+    height: 486px;
+    left: 985px;
+    top: 297px;    
+}
